@@ -1,0 +1,30 @@
+2015-06-03 15:56:06 file:.\ConnectPoint.cpp func:ConnectPoint::Connect line:29 info:Error at Connect socket()
+
+2015-06-03 15:58:13 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:29 info:Error at Connect socket()
+
+2015-06-03 15:58:20 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:29 info:Error at Connect socket()
+
+2015-06-03 15:58:32 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:29 info:Error at Connect socket()
+
+2015-06-03 15:59:34 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:29 info:Error at Connect socket()
+
+2015-06-03 16:03:52 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:44 info:与[127.0.0.1:10812]的连接成功
+2015-06-03 16:12:17 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:44 info:与[127.0.0.1:10812]的连接成功
+2015-06-03 16:31:03 file:f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp func:ConnectPoint::Connect line:44 info:与[127.0.0.1:10812]的连接成功
+2015-06-03 16:55:58f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 62 绑定[10812]端口
+2015-06-03 17:25:10f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 67 绑定[10812]端口
+2015-06-03 17:25:10f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-03 17:25:18f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 67 绑定[10812]端口
+2015-06-03 17:25:18f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-03 17:27:23f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 67 绑定[10812]端口
+2015-06-03 17:27:23f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-03 17:27:23f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::OnAccept 100 收到来自127.0.0.1:13215连接
+2015-06-03 17:27:28f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 67 绑定[10812]端口
+2015-06-03 17:27:28f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-03 17:27:34f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::OnAccept 100 收到来自127.0.0.1:13224连接
+2015-06-03 17:28:41f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 70 绑定[10812]端口
+2015-06-03 17:28:41f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-03 17:28:43f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::OnAccept 103 收到来自127.0.0.1:13431连接
+2015-06-04 09:17:58f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::Start 67 绑定[10812]端口
+2015-06-04 09:17:58f:\vs2005workspace\masterslave\masterslave\connectpoint.cpp ConnectPoint::Connect 50 与[127.0.0.1:10812]的连接成功
+2015-06-04 09:17:58f:\vs2005workspace\masterslave\masterslave\accesspoint.cpp AccessPoint::OnAccept 100 收到来自127.0.0.1:16427连接
