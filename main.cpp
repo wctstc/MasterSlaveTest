@@ -15,6 +15,8 @@ int main()
 	//string port;
 	//config.GetKeyValue( "local","ip",   ip   );
 	//config.GetKeyValue( "local","port", port );
+	//config.GetKeyValue( "local","port", port );
+	//config.GetKeyValue( "local","port", port );
 
 	AccessPoint access_point;
 	ConnectPoint connect_point;
